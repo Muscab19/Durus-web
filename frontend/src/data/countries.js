@@ -1,0 +1,17 @@
+export const COUNTRIES = [
+  { code: '+252', flag: '🇸🇴', name: 'الصومال' },
+  { code: '+251', flag: '🇪🇹', name: 'إثيوبيا' },
+  { code: '+254', flag: '🇰🇪', name: 'كينيا' },
+  { code: '+253', flag: '🇩🇯', name: 'جيبوتي' },
+  { code: '+20',  flag: '🇪🇬', name: 'مصر' },
+  { code: '+966', flag: '🇸🇦', name: 'السعودية' },
+  { code: '+971', flag: '🇦🇪', name: 'الإمارات' },
+  { code: '+974', flag: '🇶🇦', name: 'قطر' },
+  { code: '+973', flag: '🇧🇭', name: 'البحرين' },
+  { code: '+965', flag: '🇰🇼', name: 'الكويت' },
+  { code: '+968', flag: '🇴🇲', name: 'عُمان' },
+  { code: '+962', flag: '🇯🇴', name: 'الأردن' },
+  { code: '+90',  flag: '🇹🇷', name: 'تركيا' },
+  { code: '+44',  flag: '🇬🇧', name: 'المملكة المتحدة' },
+  { code: '+1',   flag: '🇺🇸', name: 'الولايات المتحدة' },
+];
